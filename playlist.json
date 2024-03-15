@@ -1,0 +1,46 @@
+[
+  {
+    "id": "b48bf9e9-cff4-4313-a61f-4d39b9a40ce2",
+    "descripcion": "Disfruta de la música.",
+    "portada": "https://via.placeholder.com/800x800/c618ee/da0cdb.jpg?text=Tu+Música+Favorita",
+    "publicado": "2024-03-14T23:09:31.000Z",
+    "artista": "c1143b59-f6ad-4e21-9981-86e8e54cb786",
+    "listaDeCanciones": [
+      {
+        "id": "1a2b3c4d",
+        "nombre": "Metallica - Seek and Destroy",
+        "duracion": "04:55",
+        "enlace": "https://www.youtube.com/watch?v=sk8Pb17pcQI",
+        "genero": "Heavy Metal"
+      },
+      {
+        "id": "df8c1cfe-9daa-4155-aad4-78127fd4f234",
+        "nombre": "Britney Spears - Toxic",
+        "duracion": "03:32",
+        "enlace": "https://www.youtube.com/watch?v=LOZuxwVk7TU",
+        "genero": "Pop"
+      },
+      {
+        "id": "205cd94a-3902-4543-830e-24ec27dea948",
+        "nombre": "Bas - Tribe with J.Cole",
+        "duracion": "03:59",
+        "enlace": "https://www.youtube.com/watch?v=OA8aw07dpg0",
+        "genero": "Hip Hop"
+      },
+      {
+        "id": "5e6f7g8h",
+        "nombre": "David Guetta - Titanium ft. Sia",
+        "duracion": "04:06",
+        "enlace": "https://www.youtube.com/watch?v=JRfuAukYTKg",
+        "genero": "Música Electrónica de Baile"
+      },
+      {
+        "id": "9i0j1k2l",
+        "nombre": "Adele - Hello",
+        "duracion": "06:07",
+        "enlace": "https://www.youtube.com/watch?v=YQHsXMglC9A",
+        "genero": "Pop"
+      }
+    ]
+  }
+]

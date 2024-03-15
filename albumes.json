@@ -1,0 +1,67 @@
+[
+  {
+    "id": "album1",
+    "descripcion": "Disfruta de la música de Michael Jackson.",
+    "portada": "https://via.placeholder.com/800x800/c618ee/da0cdb.jpg?text=Michael+Jackson",
+    "publicado": "2024-03-14T23:09:31.000Z",
+    "artista": "Michael Jackson",
+    "album": "Thriller",
+    "listaDeCanciones": [
+      {
+        "id": "song1",
+        "nombre": "Michael Jackson - Billie Jean",
+        "duracion": "04:55",
+        "enlace": "https://www.youtube.com/watch?v=RkE9MT30dkI&pp=ygUHeDEwMHByZQ%3D%3D",
+        "genero": "Pop"
+      },
+      {
+        "id": "song2",
+        "nombre": "Michael Jackson - Thriller",
+        "duracion": "13:43",
+        "enlace": "https://www.youtube.com/watch?v=4hV2V_beC8w&pp=ygUgbWljaGFlbCBqYWNrc29uIC0gdGhyaWxsZXIgYWxidW0%3D",
+        "genero": "Pop"
+      }
+    ]
+  },
+  {
+    "id": "album2",
+    "descripcion": "Disfruta de la música de Freddie Mercury.",
+    "portada": "https://via.placeholder.com/800x800/c618ee/da0cdb.jpg?text=Freddie+Mercury",
+    "publicado": "2024-03-14T23:09:31.000Z",
+    "artista": "Freddie Mercury",
+    "album": "The Freddie Mercury Album",
+    "listaDeCanciones": [
+      {
+        "id": "song3",
+        "nombre": "Freddie Mercury - The Great Pretender",
+        "duracion": "03:27",
+        "enlace": "https://www.youtube.com/watch?v=LAYd4FABE8I&pp=ygUZZnJlZGRpZSBtZXJjdXJ5IHRoZSBhbGJ1bQ%3D%3D",
+        "genero": "Rock"
+      }
+    ]
+  },
+  {
+    "id": "album3",
+    "descripcion": "Disfruta de la música de Bad Bunny.",
+    "portada": "https://via.placeholder.com/800x800/c618ee/da0cdb.jpg?text=Bad+Bunny",
+    "publicado": "2024-03-14T23:09:31.000Z",
+    "artista": "Bad Bunny",
+    "album": "X 100PRE",
+    "listaDeCanciones": [
+      {
+        "id": "song5",
+        "nombre": "Bad Bunny - NI BIEN NI MAL",
+        "duracion": "03:51",
+        "enlace": "https://www.youtube.com/watch?v=wbJcVmrIJYU",
+        "genero": "Reggaeton"
+      },
+      {
+        "id": "song6",
+        "nombre": "Bad Bunny - LA ROMANA ft. El Alfa",
+        "duracion": "05:27",
+        "enlace": "https://www.youtube.com/watch?v=AlXfbVpDUdo",
+        "genero": "Reggaeton"
+      }
+    ]
+  }
+]

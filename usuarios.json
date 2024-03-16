@@ -1,58 +1,58 @@
 [
-  {
-    "id": "8beec0b9-cbc9-44b5-9187-9509a04d5dc6",
-    "name": "Juan Pérez",
-    "email": "juan.perez@correo.unimet.edu.ve",
-    "username": "JuanPerez1",
-    "type": "oyente"
-  },
-  {
-    "id": "8a6390a0-eda1-4161-81a1-6576edc72c2b",
-    "name": "María Rodríguez",
-    "email": "maria.rodriguez@correo.unimet.edu.ve",
-    "username": "MariaRodriguez2",
-    "type": "oyente"
-  },
-  {
-    "id": "c060b6ea-4418-4521-88c8-e430cf91a0d1",
-    "name": "Carlos López",
-    "email": "carlos.lopez@correo.unimet.edu.ve",
-    "username": "CarlosLopez3",
-    "type": "músico"
-  },
-  {
-    "id": "f2525fc3-d5e0-472d-920f-6446fd766892",
-    "name": "Ana González",
-    "email": "ana.gonzalez@correo.unimet.edu.ve",
-    "username": "AnaGonzalez4",
-    "type": "músico"
-  },
-  [
-  {
-    "id": "7beec0b9-cbc9-44b5-9187-9509a04d5dc6",
-    "name": "Luis Martínez",
-    "email": "luis.martinez@correo.unimet.edu.ve",
-    "username": "LuisMartinez5",
-    "type": "oyente"
-  },
-  {
-    "id": "9a6390a0-eda1-4161-81a1-6576edc72c2b",
-    "name": "Sofía Torres",
-    "email": "sofia.torres@correo.unimet.edu.ve",
-    "username": "SofiaTorres6",
-    "type": "oyente"
-  },
-  {
-    "id": "d060b6ea-4418-4521-88c8-e430cf91a0d1",
-    "name": "Javier Ramírez",
-    "email": "javier.ramirez@correo.unimet.edu.ve",
-    "username": "JavierRamirez7",
-    "type": "músico"
-  },
-  {
-    "id": "g2525fc3-d5e0-472d-920f-6446fd766892",
-    "name": "Carmen Sánchez",
-    "email": "carmen.sanchez@correo.unimet.edu.ve",
-    "username": "CarmenSanchez8",
-    "type": "músico"
-  }
+   {
+      "id":"8beec0b9-cbc9-44b5-9187-9509a04d5dc6",
+      "name":"Juan Pérez",
+      "email":"juan.perez@correo.unimet.edu.ve",
+      "username":"JuanPerez1",
+      "type":"oyente"
+   },
+   {
+      "id":"8a6390a0-eda1-4161-81a1-6576edc72c2b",
+      "name":"María Rodríguez",
+      "email":"maria.rodriguez@correo.unimet.edu.ve",
+      "username":"MariaRodriguez2",
+      "type":"oyente"
+   },
+   {
+      "id":"c060b6ea-4418-4521-88c8-e430cf91a0d1",
+      "name":"Carlos López",
+      "email":"carlos.lopez@correo.unimet.edu.ve",
+      "username":"CarlosLopez3",
+      "type":"músico"
+   },
+   {
+      "id":"f2525fc3-d5e0-472d-920f-6446fd766892",
+      "name":"Ana González",
+      "email":"ana.gonzalez@correo.unimet.edu.ve",
+      "username":"AnaGonzalez4",
+      "type":"músico"
+   },
+   {
+      "id":"7beec0b9-cbc9-44b5-9187-9509a04d5dc6",
+      "name":"Luis Martínez",
+      "email":"luis.martinez@correo.unimet.edu.ve",
+      "username":"LuisMartinez5",
+      "type":"oyente"
+   },
+   {
+      "id":"9a6390a0-eda1-4161-81a1-6576edc72c2b",
+      "name":"Sofía Torres",
+      "email":"sofia.torres@correo.unimet.edu.ve",
+      "username":"SofiaTorres6",
+      "type":"oyente"
+   },
+   {
+      "id":"d060b6ea-4418-4521-88c8-e430cf91a0d1",
+      "name":"Javier Ramírez",
+      "email":"javier.ramirez@correo.unimet.edu.ve",
+      "username":"JavierRamirez7",
+      "type":"músico"
+   },
+   {
+      "id":"g2525fc3-d5e0-472d-920f-6446fd766892",
+      "name":"Carmen Sánchez",
+      "email":"carmen.sanchez@correo.unimet.edu.ve",
+      "username":"CarmenSanchez8",
+      "type":"músico"
+   }
+]

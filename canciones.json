@@ -1,0 +1,37 @@
+[
+    {
+        "id": "6a7b8c9d",
+        "nombre": "Linkin Park - In the End",
+        "duracion": "03:37",
+        "enlace": "[Linkin Park - In the End](https://www.youtube.com/watch?v=eVTXPUF4Oz4%29)",
+        "genero": "Rock Alternativo"
+    },
+    {
+        "id": "1b2c3d4e",
+        "nombre": "Dido - Thank You",
+        "duracion": "03:14",
+        "enlace": "[Dido - Thank You](https://www.youtube.com/watch?v=1TO48Cnl66w%29)",
+        "genero": "Pop"
+    },
+    {
+        "id": "2c3d4e5f",
+        "nombre": "Eminem - My Name Is",
+        "duracion": "04:08",
+        "enlace": "[Eminem - My Name Is](https://www.youtube.com/watch?v=sNPnbI1arSE%29)",
+        "genero": "Hip Hop"
+    },
+    {
+        "id": "3d4e5f6g",
+        "nombre": "Coldplay - In My Place",
+        "duracion": "03:46",
+        "enlace": "[Coldplay - In My Place](https://www.youtube.com/watch?v=Jb7kJ-j_dKA%29)",
+        "genero": "Pop/Rock"
+    },
+    {
+        "id": "4e5f6g7h",
+        "nombre": "Alanis Morissette - Ironic",
+        "duracion": "03:49",
+        "enlace": "[Alanis Morissette - Ironic](https://www.youtube.com/watch?v=Jne9t8sHpUc%29)",
+        "genero": "Pop/Rock"
+    }
+]
